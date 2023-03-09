@@ -1,7 +1,7 @@
 ### Olá, sou a Joana! 👋
 
 - 🔭 Atualmente estou buscando recolocação no mercado!
-- 🌱 Estou em transição de carreira buscando conhecimento em Html e Css.
+- 🌱 Estou em transição de carreira buscando conhecimento em Html, Css e JS.
 - Inicialmente estou no Projeto "Do Zero ao Programador Contratado" do DEVEMDOBRO.
 
  <div>
