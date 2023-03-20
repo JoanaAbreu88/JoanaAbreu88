@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente estou buscando recolocação no mercado!
 - 🌱 Estou em transição de carreira buscando conhecimento em Html, Css e JS.
-- Inicialmente estou no Projeto "Do Zero ao Programador Contratado" do DEVEMDOBRO.
+- DevQuest (aprendendo linguagem de programação).
 
  <div>
    <a href="https://github.com/JoanaAbreu88">
